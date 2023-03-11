@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T12:59:58 IST" name="Default suite" finished-at="2023-03-10T13:00:24 IST" duration-ms="26039">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T12:59:58 IST" name="Default test" finished-at="2023-03-10T13:00:24 IST" duration-ms="26039">
+      <class name="com.amzon.Testlayer.ProductTestPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amzon.Testlayer.ProductTestPage@39529185]" started-at="2023-03-10T12:59:58 IST" name="setup" finished-at="2023-03-10T13:00:03 IST" duration-ms="4647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRatingFunctionalityisWorking()[pri:0, instance:com.amzon.Testlayer.ProductTestPage@39529185]" started-at="2023-03-10T13:00:03 IST" name="verifyRatingFunctionalityisWorking" finished-at="2023-03-10T13:00:21 IST" duration-ms="18333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRatingFunctionalityisWorking -->
+        <test-method is-config="true" signature="teardrown()[pri:0, instance:com.amzon.Testlayer.ProductTestPage@39529185]" started-at="2023-03-10T13:00:21 IST" name="teardrown" finished-at="2023-03-10T13:00:24 IST" duration-ms="3006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardrown -->
+      </class> <!-- com.amzon.Testlayer.ProductTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
